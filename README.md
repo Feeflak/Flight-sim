@@ -66,8 +66,4 @@ Potential enhancements planned for future releases:
 -   Download <a href="https://godotengine.org/download/archive/4.4-stable/">Godot 4.4</a> (the .NET version is required).
 -   Configure your Godot environment following the steps outlined in <a href="https://www.youtube.com/watch?v=Yi1iIM-B7XQ">this video tutorial</a>.
 -   Clone this GitHub repository.
--   Open the cloned directory in Godot 4.4.
-
-## Contact Information:
-
-For any inquiries regarding this project, please contact me at <a href="mailto:LeaveMyAlpacaAlone@outlook.com">LeaveMyAlpacaAlone@outlook.com</a>.
+-   Open the cloned directory in Godot 4.4
